@@ -13,7 +13,7 @@ This application continuously watches a specified directory for new PDF files. W
 
 1. **Clone the repository:**
     ```bash
-    git clone [https://github.com/dannySubsense/PDFWatchertoPrinterCSHARP/tree/master]
+    git clone https://github.com/dannySubsense/PDFWatchertoPrinterCSHARP/tree/master
     ```
 
 2. **Navigate to the project directory:**
