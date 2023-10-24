@@ -16,7 +16,7 @@ This application continuously watches a specified directory for new PDF files. W
     git clone https://github.com/dannySubsense/PDFWatchertoPrinterCSHARP/tree/master
     ```
 
-2. **Navigate to the project directory:**
+2. **Open the Command Prompt and navigate to the project directory:**
     ```bash
     cd PDFWatchertoPrinter
     ```
